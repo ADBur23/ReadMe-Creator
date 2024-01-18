@@ -21,18 +21,18 @@ const questions = [
       {
         type: "input",
         name: "description",
-        message: "Briefly, sdscribe your project.",
+        message: "Briefly, describe your project:",
       },
       {
         type: "input",
         name: "installation",
-        message: "Tell us how to install your project.",
+        message: "Tell us how to install your project:",
       },
 
       {
         type: "input",
         name: "usage",
-        message: "Explain how to use your project",
+        message: "Explain how to use your project:",
       },
 
       {
@@ -57,7 +57,7 @@ const questions = [
       {
         type: "input",
         name: "questions",
-        message: "Please write any questions you have for your users",
+        message: "Please write any questions you have for your users:",
       },
 
       {
@@ -76,7 +76,7 @@ const questions = [
     .then((answers) => {
       const readmeContent = generateMarkdown(answers);
 
-      writeToFile("./generated/README.md", readmeContent);
+      writeToFile("./created/README.md", readmeContent);
     }),
 ];
 
