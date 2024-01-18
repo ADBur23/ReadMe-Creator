@@ -16,28 +16,28 @@ Travel
 
 
 ## Installation
-  Download it and click it
+  Download and open
 
 ## Usage
-  Take pics
+  Open it and like it, and keep pressing like
 
 ## License
   MIT
 
 ## Contributing
-  Do what you want, mate
+  Free use, peace and love
 
 ## Tests
-  Does it work?
+  Test once, test forever
 
 ## Questions
-  Will you be my friend?
+  Are we friends?
 
   
-View this repo on [Github](http://github.com/personal)
+View this repo on [Github](http://github.com/London-Paris)
 
 By London
-Email London@paris.aol
+Email London@paris.netscape
   
 
 
